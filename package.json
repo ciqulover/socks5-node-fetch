@@ -1,0 +1,25 @@
+{
+  "name": "socks5-node-fetch",
+  "version": "0.0.3",
+  "description": "socks5 agent for node-fetch",
+  "main": "index.js",
+  "keywords": [
+    "node-fecth",
+    "socks5"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciqulover/socks5-node-fetch"
+  },
+  "author": {
+    "name": "ciqulover",
+    "email": "ciqulover@gmail.com",
+    "url": "ycwalker.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^1.7.3",
+    "socks5-http-client": "^1.0.2",
+    "socks5-https-client": "^1.2.1"
+  }
+}
