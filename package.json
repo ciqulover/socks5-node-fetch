@@ -1,6 +1,6 @@
 {
   "name": "socks5-node-fetch",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "socks5 agent for node-fetch",
   "main": "index.js",
   "keywords": [
